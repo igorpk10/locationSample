@@ -1,8 +1,8 @@
 package com.igao.locationsample.location
 
 import android.os.Bundle
-import com.igao.locationhelper.databinding.ActivityLocationBinding
 import com.igao.locationsample.R
+import com.igao.locationsample.databinding.ActivityLocationBinding
 
 class LocationActivity : LocationHelperActivity() {
 
